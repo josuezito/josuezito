@@ -22,7 +22,7 @@
 <h3 align="center">I love programming and solving problems in the financial sector</h3>
   <ul style="list-style: none;">
     <li>👨‍🎓 I’m currently studying <strong>Industrial Engineering</strong> in <a href="https://www.dii.uchile.cl/english/undergraduate/">University of Chile</a> </li>
-    <li>🔭 I’m currently working at <a href="https://www.pwc.com/cl/es.html"><strong>PwC Chile</strong></a></li>
+    <li>🔭 I worked at <a href="https://www.pwc.com/cl/es.html"><strong>PwC Chile</strong></a></li>
     <li>🌱 I’m currently learning <strong>SQL, Tensorflow, Pycharm & Git</strong></li>
     <li>📫 How to reach me <strong>josue.guillenambulay@gmail.com<strong></li>
   </ul>
